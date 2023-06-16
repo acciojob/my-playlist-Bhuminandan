@@ -1,1 +1,34 @@
-/*  your css code here. If applicable */
+body{
+    background-color: #cccccc;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.player_one{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.player_two{
+    background-color: white;
+    width: max-content;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1,h3 {
+    text-align: center;
+  }
+
+  p{
+    padding-left: 5px;
+  }
+
